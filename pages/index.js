@@ -89,7 +89,7 @@ const Home = ({
               </p>
               <p><br /></p>
               <p>
-                Tendo como tema "Como as contribuições da Ciência podem colaborar com a construção de uma sociedade mais justa, inclusiva, sustentável e igualitária”, a II EXPOTEC convida toda a comunidade a refletir acerca das diferentes formas como a Ciência pode contribuir para que tenhamos uma sociedade em que a Justiça seja cada vez mais fortalecida e valorizada; em que todos os sujeitos tenham condições de exercer sua cidadania e gozar plenamente de seus direitos (independente de renda, raça, etnia, origem, gênero, orientação sexual, condição neurológica ou física); e que possamos viver em harmonia com o meio ambiente visando a preservação da vida na terra e promovendo uma relação saudável entre humanidade e natureza.
+                Tendo como tema &quot;Como as contribuições da Ciência podem colaborar com a construção de uma sociedade mais justa, inclusiva, sustentável e igualitária&quot;, a II EXPOTEC convida toda a comunidade a refletir acerca das diferentes formas como a Ciência pode contribuir para que tenhamos uma sociedade em que a Justiça seja cada vez mais fortalecida e valorizada; em que todos os sujeitos tenham condições de exercer sua cidadania e gozar plenamente de seus direitos (independente de renda, raça, etnia, origem, gênero, orientação sexual, condição neurológica ou física); e que possamos viver em harmonia com o meio ambiente visando a preservação da vida na terra e promovendo uma relação saudável entre humanidade e natureza.
               </p>
               <p><br /></p>
               <p>
