@@ -9,7 +9,8 @@
     "build": "node lib/jsonGenerator.js && next build",
     "export": "npm run build && next export",
     "lint": "next lint",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "npm run build && npm run export"
   },
   "dependencies": {
     "disqus-react": "^1.1.5",
