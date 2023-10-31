@@ -5,10 +5,6 @@
       "url": "/"
     },
     {
-      "name": "Chamada de Trabalhos",
-      "url": "/chamada-de-trabalhos"
-    },
-    {
       "name": "Programação (em breve)",
       "url": "/programacao"
     },
@@ -21,10 +17,6 @@
     {
       "name": "Home",
       "url": "/"
-    },
-    {
-      "name": "Chamada de Trabalhos",
-      "url": "/chamada-de-trabalhos"
     },
     {
       "name": "Programação",
