@@ -16,14 +16,10 @@ A **II Expotec - IFRN/CM 2023** contará com três modalidades de submissão:
 ### Nota
 *Há a possibilidade do grupo de avaliadores das propostas sugerir a mudança de um trabalho de uma modalidade para outra, caso se julgue que uma proposta está mais alinhada com uma modalidade diferente da que o trabalho foi submetido.*
 
+###
+A chamadas de trabalhos foi finalizada!
 
+Clique [aqui](https://eventos.cm.ifrn.edu.br/event/15/) para conferir se o seu trabalho foi aprovado.
 
-# Inscrições adiadas - Novo prazo!
+ Aguarde a divulgação da programação em breve!
 
-A chamada de trabalhos foi extendida até o dia 17 de set. de 2023 23:59h. Aproveite essa oportunidade para submeter seu trabalho!                
-
-## Submeta seu trabalho!
-
-A **II Expotec - IFRN/CM 2023** utiliza o sistema Indico para gerenciar as submissões.
-
-Clique [**aqui**](https://eventos.cm.ifrn.edu.br/login/?next=%2Fevent%2F15%2Fabstracts%2F%23submit-abstract) para submeter seu trabalho.

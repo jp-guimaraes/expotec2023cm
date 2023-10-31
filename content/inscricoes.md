@@ -7,5 +7,7 @@ layout: Default
 
 A **II Expotec - IFRN/CM 2023** acontecerá entre os dias 20 e 24 de nov. de 2023.
 
-Fique atento, em breve as inscrições para o evento serão abertas!
+Clique [aqui](https://eventos.cm.ifrn.edu.br/event/15/registrations/8/) para fazer a sua inscrição!
+
+As inscrições são gerenciadas pelo sistema Indico. 
 

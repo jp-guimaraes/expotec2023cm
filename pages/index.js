@@ -104,15 +104,15 @@ const Home = ({
         </div>
       </section>
 
-      {/* Nova seção de texto */}
+      
       <section className="section">
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <h2>Chamda de trabalhos extendida!</h2>
+              <h2>Inscrições abertas!</h2>
               <p><br /></p>
               <p>
-                A chamada de trabalhos foi extendida até o dia 17 de set. de 2023 23:59h. Aproveite essa oportunidade para submeter seu trabalho!                
+                As inscrições estão sendo gerenciadas pelo Sistema Indico. 
               </p>         
               <p><br /></p>
               <p>
