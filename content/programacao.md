@@ -570,3 +570,13 @@ Os minicursos e oficinas são atividades que visam uma formação de curta dura�
         <td>P205</td>
     </tr>
 </table>
+
+
+# Exposições 
+
+As exposições vão acontecer nos corredores do prédio principal durante todo o evento.
+
+- Saindo do Armário: Organizado pelo Núcleo de Estudos Afro-Brasileiros e Indígenas - NEABI Sistêmico
+
+- Tons de Orgulho: uma ode às diversas belezas negras - NEABI de Ceará Mirim
+
