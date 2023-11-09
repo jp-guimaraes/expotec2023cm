@@ -97,7 +97,7 @@ Local do evento está entre parênteses.
     <tr>
       <td>14:50</td>
       <td></td>
-      <td></td>
+      <td>Bate-papo com intercambistas do projeto de internacionalização (Auditório)</td>
       <td></td>
       <td></td>
       <td></td>
