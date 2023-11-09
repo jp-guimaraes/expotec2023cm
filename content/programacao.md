@@ -7,7 +7,7 @@ layout: Default
 
 A **II Expotec - IFRN/CM 2023** acontecerá entre os dias 20 e 24 de nov. de 2023.
 
-Todos os públicos são bem-vindos a II EXPOTEC. Com o intuito de proporcionar experiências um pouco mais direcionadas, o evento se organizou de modo que cada dia possa acolher um público em específico. Dessa forma, o dia 22 foi direcionado ao ensino fundamental anos finais; o dia 23 ao ensino médio; e o dia 23 aos primeiros anos do ensino fundamental e infantil.
+Todos os públicos são bem-vindos a II EXPOTEC. Com o intuito de proporcionar experiências um pouco mais direcionadas, o evento se organizou de modo que cada dia possa acolher um público em específico. Dessa forma, o dia 21 foi direcionado aos anos finais do ensino fundamental; o dia 22 ao ensino médio; e o dia 23 aos primeiros anos do ensino fundamental.
 
 Desejamos tê-los conosco e que o evento seja um momento de construção e compartilhamento de conhecimentos!
 
@@ -50,7 +50,7 @@ Local do evento está entre parênteses.
       <td>08:50</td>
       <td></td>
       <td></td>
-      <td>Apresentação de com temática étnico-racial do IFRN - Zona Norte (Auditório)</td>
+      <td>Performance com temática étnico-racial do IFRN - Zona Norte (Auditório)</td>
       <td>Jogos Sociológicos</td>      
       <td></td>
     </tr>
@@ -84,7 +84,7 @@ Local do evento está entre parênteses.
       <td>"Projeto gastronômico 'Temperando'" (Videoconferência)</td>
       <td></td>
       <td></td>
-      <td>Grupo de pastoril (Área de Vivência)</td>
+      <td></td>
     </tr>
     <tr>
       <td>13:45</td>
@@ -97,7 +97,7 @@ Local do evento está entre parênteses.
     <tr>
       <td>14:50</td>
       <td></td>
-      <td>Bate-papo com intercambistas do projeto de internacionalização (Auditório)</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
