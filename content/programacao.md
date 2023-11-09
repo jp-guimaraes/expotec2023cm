@@ -11,9 +11,6 @@ Todos os públicos são bem-vindos a II EXPOTEC. Com o intuito de proporcionar e
 
 Desejamos tê-los conosco e que o evento seja um momento de construção e compartilhamento de conhecimentos!
 
-
-Clique [aqui](https://expotec2023cm.vercel.app/prog1.pdf) para acessar a programação completa do evento.
-
 # Atividades Culturais
 
 Local do evento está entre parênteses. 
@@ -107,7 +104,7 @@ Local do evento está entre parênteses.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Roda de Leitura sobre o livro "A Cor Púrpura" (Área de Vivência)</td>
       <td></td>
     </tr>
     <tr>
@@ -372,112 +369,132 @@ A Educação Alimentar e Nutricional (EAN) foi incluída como tema transversal n
 Para melhor esclarecer acerca das salas temáticas que serão abertas durante a II EXPOTEC, foi construída uma tabela que apresenta os nomes das salas, os dias em que estarão abertas, os horários de funcionamento e os locais que as acomodarão. Lembramos que, além de locais de visitação, nossas salas também apresentam atividades para variados públicos.
 
 
-<table>
-    <tr>
-        <th>Turnos</th>
-        <th>Terça 21/11</th>
-        <th>Quarta 22/11</th>
-        <th>Quinta 23/11</th>
-        <th>Espaço físico</th>
-        <th>Andar</th>
-    </tr>
-    <tr>
-        <td>Manhã</td>
-        <td>Matemática e jogos africanos</td>
-        <td>Matemática e jogos africanos</td>
-        <td>Matemática e jogos africanos</td>
-        <td>P103</td>
-        <td>1º andar</td>
-    </tr>
-    <tr>
-        <td>Manhã</td>
-        <td>Materiais, jogos e brincadeiras com Matemática</td>
-        <td>Materiais, jogos e brincadeiras com Matemática</td>
-        <td>Materiais, jogos e brincadeiras com Matemática</td>
-        <td>P104</td>
-        <td>1º andar</td>
-    </tr>
-    <tr>
-        <td>Manhã</td>
-        <td>Educação alimentar com jogos</td>
-        <td>Educação alimentar com jogos</td>
-        <td></td>
-        <td>P015</td>
-        <td>Térreo</td>
-    </tr>
-    <tr>
-        <td>Manhã</td>
-        <td>Experimentos de física</td>
-        <td>Experimentos de física</td>
-        <td></td>
-        <td>P105</td>
-        <td>1º andar</td>
-    </tr>
-    <tr>
-        <td>Manhã</td>
-        <td>Contos de terror e outros</td>
-        <td>Afrobrasilidades</td>
-        <td>Afrobrasilidades</td>
-        <td>P106</td>
-        <td>1º andar</td>
-    </tr>
-    <tr>
-        <td>Manhã</td>
-        <td></td>
-        <td>Exposição, vivências e inclusividade (NAPNE)</td>
-        <td>Exposição, vivências e inclusividade (NAPNE)</td>
-        <td>P021</td>
-        <td>Térreo</td>
-    </tr>
-    <tr>
-        <td>Tarde</td>
-        <td>Matemática e jogos africanos</td>
-        <td>Matemática e jogos africanos</td>
-        <td>Matemática e jogos africanos</td>
-        <td>P103</td>
-        <td>1º andar</td>
-    </tr>
-    <tr>
-        <td>Tarde</td>
-        <td>Materiais, jogos e brincadeiras com Matemática</td>
-        <td>Materiais, jogos e brincadeiras com Matemática</td>
-        <td>Materiais, jogos e brincadeiras com Matemática</td>
-        <td>P104</td>
-        <td>1º andar</td>
-    </tr>
-    <tr>
-        <td>Tarde</td>
-        <td>Educação alimentar com jogos</td>
-        <td>Educação alimentar com jogos</td>
-        <td></td>
-        <td>P015</td>
-        <td>Térreo</td>
-    </tr>
-    <tr>
-        <td>Tarde</td>
-        <td>Experimentos de física</td>
-        <td>Experimentos de física</td>
-        <td></td>
-        <td>P105</td>
-        <td>1º andar</td>
-    </tr>
-    <tr>
-        <td>Tarde</td>
-        <td>Contos de terror e outros</td>
-        <td>Afrobrasilidades</td>
-        <td>Afrobrasilidades</td>
-        <td>P106</td>
-        <td>1º andar</td>
-    </tr>
-    <tr>
-        <td>Tarde</td>
-        <td></td>
-        <td>Exposição, vivências e inclusividade (NAPNE)</td>
-        <td>Exposição, vivências e inclusividade (NAPNE)</td>
-        <td>P021</td>
-        <td>Térreo</td>
-    </tr>
-</table>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Turnos</th>
+                <th>Terça 21/11</th>
+                <th>Quarta 22/11</th>
+                <th>Quinta 23/11</th>
+                <th>Espaço físico</th>
+                <th>Andar</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Manhã</td>
+                <td>Matemática e jogos africanos</td>
+                <td>Matemática e jogos africanos</td>
+                <td>Matemática e jogos africanos</td>
+                <td>P103</td>
+                <td>1º andar</td>
+            </tr>
+            <tr>
+                <td>Manhã</td>
+                <td>Materiais, jogos e brincadeiras com Matemática</td>
+                <td>Materiais, jogos e brincadeiras com Matemática</td>
+                <td>Materiais, jogos e brincadeiras com Matemática</td>
+                <td>P104</td>
+                <td>1º andar</td>
+            </tr>
+            <tr>
+                <td>Manhã</td>
+                <td>Educação alimentar com jogos</td>
+                <td>Educação alimentar com jogos</td>
+                <td>Atividade: Novembro Azul</td>
+                <td>P015</td>
+                <td>Térreo</td>
+            </tr>
+            <tr>
+                <td>Manhã</td>
+                <td>Experimentos de física</td>
+                <td>Experimentos de física</td>
+                <td></td>
+                <td>P105</td>
+                <td>1º andar</td>
+            </tr>
+            <tr>
+                <td>Manhã</td>
+                <td>Contos de terror e outros</td>
+                <td>Afrobrasilidades</td>
+                <td>Afrobrasilidades</td>
+                <td>P106</td>
+                <td>1º andar</td>
+            </tr>
+            <tr>
+                <td>Manhã</td>
+                <td></td>
+                <td>Exposição, vivências e inclusividade (NAPNE)</td>
+                <td>Exposição, vivências e inclusividade (NAPNE)</td>
+                <td>P021</td>
+                <td>Térreo</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>Jogos de tabuleiro sociológicos</td>
+                <td>P107</td>
+                <td>1º andar</td>
+            </tr>
+            <tr>
+                <td>Tarde</td>
+                <td>Matemática e jogos africanos</td>
+                <td>Matemática e jogos africanos</td>
+                <td>Matemática e jogos africanos</td>
+                <td>P103</td>
+                <td>1º andar</td>
+            </tr>
+            <tr>
+                <td>Tarde</td>
+                <td>Materiais, jogos e brincadeiras com Matemática</td>
+                <td>Materiais, jogos e brincadeiras com Matemática</td>
+                <td>Materiais, jogos e brincadeiras com Matemática</td>
+                <td>P104</td>
+                <td>1º andar</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>Jogos de tabuleiro sociológicos</td>
+                <td>P107</td>
+                <td>1º andar</td>
+            </tr>
+            <tr>
+                <td>Tarde</td>
+                <td>Educação alimentar com jogos</td>
+                <td>Educação alimentar com jogos</td>
+                <td>Atividade: Novembro Azul</td>
+                <td>P015</td>
+                <td>Térreo</td>
+            </tr>
+            <tr>
+                <td>Tarde</td>
+                <td>Experimentos de física</td>
+                <td>Experimentos de física</td>
+                <td></td>
+                <td>P105</td>
+                <td>1º andar</td>
+            </tr>
+            <tr>
+                <td>Tarde</td>
+                <td>Contos de terror e outros</td>
+                <td>Afrobrasilidades</td>
+                <td>Afrobrasilidades</td>
+                <td>P106</td>
+                <td>1º andar</td>
+            </tr>
+            <tr>
+                <td>Tarde</td>
+                <td></td>
+                <td>Exposição, vivências e inclusividade (NAPNE)</td>
+                <td>Exposição, vivências e inclusividade (NAPNE)</td>
+                <td>P021</td>
+                <td>Térreo</td>
+            </tr>
+        </tbody>
+    </table>
 
 # Minicursos e Oficinas
 
@@ -496,80 +513,127 @@ Os minicursos e oficinas são atividades que visam uma formação de curta dura�
 11. Requerimento de ensino no SUAP
 12. Métodos de demonstração matemática
 
-<table>
-    <tr>
-        <th>Horário</th>
-        <th>Terça-feira 21/11</th>
-        <th>Sala</th>
-        <th>Quarta-feira 22/11</th>
-        <th>Sala</th>
-        <th>Quinta-feira 23/11</th>
-        <th>Sala</th>
-    </tr>
-    <tr>
-        <td>8h50-10h20</td>
-        <td>Introdução ao Alfabeto Coraeno (2ha)</td>
-        <td>P215</td>
-        <td>RPG como estratégia de ensino de Probabilidade(2ha)</td>
-        <td>P205</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>10h30-12h00</td>
-        <td>A EDUCAÇÃO MATEMÁTICA E TRANSFORMAÇÃO SOCIAL(2ha)</td>
-        <td>P215</td>
-        <td>Introdução ao LaTeX (2ha)</td>
-        <td>A104</td>
-        <td>Área e volume de figuras geométricas com Python (2ha)</td>
-        <td>A104</td>
-    </tr>
-    <tr>
-        <td>13h00-18h00</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Maquiagem: trajetória do instrumento de auto-estima à projeção artística(6ha)</td>
-        <td>P215</td>
-    </tr>
-    <tr>
-        <td>13h30-15h</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Requerimentos de ensino no SUAP(2ha)</td>
-        <td>A104</td>
-    </tr>
-    <tr>
-        <td>13h30-16h00</td>
-        <td>Problemas histórico recretivos(3ha)</td>
-        <td>P205</td>
-        <td>O que podemos aprender com Animes e Mangás(3ha)</td>
-        <td>P215</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>13h30-16h00</td>
-        <td>JOGOS DIGITAIS COMO FERRAMENTAS DE EVANGELIZAÇÃO(3ha)</td>
-        <td>P215</td>
-        <td>Por que Educação Financeira no ambiente escolar?(3ha)</td>
-        <td>P205</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>13h30-17h00</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Métodos de Demonstração Matemática(4ha)</td>
-        <td>P205</td>
-    </tr>
-</table>
+<table border="1">
+        <thead>
+            <tr>
+                <th>Horários</th>
+                <th>Minicursos/Oficinas - Terça 21/11</th>
+                <th>Sala</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>9h-12h00</td>
+                <td>Educação Matemática e Transformação Social (4ha)</td>
+                <td>P215</td>
+            </tr>
+            <tr>
+                <td>10h30-12h00</td>
+                <td>Introdução ao LaTeX (2ha)</td>
+                <td>A104</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>13h30-16h00</td>
+                <td>Problemas históricos recreativos(3ha)</td>
+                <td>P205</td>
+            </tr>
+            <tr>
+                <td>13h30-16h00</td>
+                <td>Jogos Digitais Como Ferramentas de Evangelização(3ha)</td>
+                <td>P215</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Horários</th>
+                <th>Minicursos/Oficinas - Quarta 22/11</th>
+                <th>Sala</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>8h50-10h20</td>
+                <td>Introdução ao Alfabeto Coraeno (2ha)</td>
+                <td>P215</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>13h30-16h00</td>
+                <td>O que podemos aprender com Animes e Mangás(3ha)</td>
+                <td>P215</td>
+            </tr>
+            <tr>
+                <td>13h30-16h00</td>
+                <td>Por que Educação Financeira no ambiente escolar?(3ha)</td>
+                <td>P205</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Horários</th>
+                <th>Minicursos/Oficinas - Quinta 23/11</th>
+                <th>Sala</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>8h50-10h20</td>
+                <td>RPG como estratégia de ensino de Probabilidade(2ha)</td>
+                <td>P205</td>
+            </tr>
+            <tr>
+                <td>10h30-12h00</td>
+                <td>Área e volume de figuras geométricas com Python (2ha)</td>
+                <td>A104</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>13h00-18h00</td>
+                <td>Maquiagem: trajetória do instrumento de auto-estima à projeção artística(6ha)</td>
+                <td>P215</td>
+            </tr>
+            <tr>
+                <td>13h30-15h</td>
+                <td>Requerimentos de ensino no SUAP(2ha)</td>
+                <td>A104</td>
+            </tr>
+            <tr>
+                <td>13h30-17h00</td>
+                <td>Métodos de Demonstração Matemática(4ha)</td>
+                <td>P205</td>
+            </tr>
+        </tbody>
+    </table>
+
 
 
 # Exposições 
