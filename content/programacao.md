@@ -186,149 +186,71 @@ Local do evento está entre parênteses.
 
 # Atividades técnico-científicas
 
-
-<table>
-  <thead>
-    <tr>
-      <th>Horários</th>
-      <th>Segunda 20/nov</th>
-      <th>Terça 21/nov</th>
-      <th>Quarta 22/nov</th>
-      <th>Quinta 23/nov</th>
-      <th>Sexta 24/nov</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>07:00</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>07:45</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>08:50</td>
-      <td></td>
-      <td>Exposição de banners, comunicação oral, mostra tecnológica, minicursos, oficinas e salas temáticas</td>
-      <td>Exposição de banners, comunicação oral, mostra tecnológica, minicursos, oficinas, salas temáticas e competição de robótica</td>
-      <td>Exposição de banners, comunicação oral, mostra tecnológica, minicursos, oficinas e salas temáticas</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>09:35</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>10:20</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>11:15</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>13:00</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>13:45</td>
-      <td></td>
-      <td>Exposição de banners, comunicação oral, mostra tecnológica, minicursos, oficinas e salas temáticas</td>
-      <td>Exposição de banners, comunicação oral, mostra tecnológica, minicursos, oficinas, salas temáticas e competição de robótica</td>
-      <td>Exposição de banners, comunicação oral, mostra tecnológica, minicursos, oficinas e salas temáticas</td>
-      <td></td> 
-    </tr>
-    <tr>
-      <td>14:50</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>15:35</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>16:30</td>
-      <td>Abertura da II EXPOTEC</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Premiação e encerramento da II EXPOTEC</td>
-      
-    </tr>
-    <tr>
-      <td>17:15</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>19:00</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>19:45</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>20:45</td>
-      <td></td>
-      <td>Apresentação dos relatos de experiência</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>21:30</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
+<table border="1">
+  <tr>
+    <th>Horários</th>
+    <th>Segunda 20/11</th>
+    <th>Terça 21/11</th>
+    <th>Quarta 22/11</th>
+    <th>Quinta 23/11</th>
+    <th>Sexta 24/11</th>
+  </tr>
+  <tr>
+    <td>09:00 - 11:00</td>
+    <td></td>
+    <td>Mostra Tecnológica</td>
+    <td>Mostra Tecnológica</td>
+    <td>Mostra Tecnológica</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>09:00 - 12:00</td>
+    <td></td>
+    <td>Exposição de banners, comunicação oral, minicursos, oficinas e salas temáticas</td>
+    <td>Exposição de banners, comunicação oral, minicursos, oficinas, salas temáticas e competição de robótica</td>
+    <td>Exposição de banners, comunicação oral, minicursos, oficinas e salas temáticas</td>
+<td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>15:00 - 17:00</td>
+    <td></td>
+    <td>Mostra Tecnológica</td>
+    <td>Mostra Tecnológica</td>
+    <td>Mostra Tecnológica</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>15:00 - 18:00</td>
+    <td></td>
+    <td>Exposição de banners, comunicação oral, minicursos, oficinas e salas temáticas</td>
+    <td>Exposição de banners, comunicação oral, minicursos, oficinas, salas temáticas e competição de robótica</td>
+    <td>Exposição de banners, comunicação oral, minicursos, oficinas e salas temáticas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>16:30</td>
+    <td>Abertura da II Expotec</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Premiação e Encerramento da II Expotec</td>
+  </tr>
+  <tr>
+    <td>20:45</td>
+    <td></td>
+    <td>Apresentação dos relatos de experiência</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 Locais das atividades técnico-científicas:
@@ -369,132 +291,132 @@ A Educação Alimentar e Nutricional (EAN) foi incluída como tema transversal n
 Para melhor esclarecer acerca das salas temáticas que serão abertas durante a II EXPOTEC, foi construída uma tabela que apresenta os nomes das salas, os dias em que estarão abertas, os horários de funcionamento e os locais que as acomodarão. Lembramos que, além de locais de visitação, nossas salas também apresentam atividades para variados públicos.
 
 
-    <table border="1">
-        <thead>
-            <tr>
-                <th>Turnos</th>
-                <th>Terça 21/11</th>
-                <th>Quarta 22/11</th>
-                <th>Quinta 23/11</th>
-                <th>Espaço físico</th>
-                <th>Andar</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Manhã</td>
-                <td>Matemática e jogos africanos</td>
-                <td>Matemática e jogos africanos</td>
-                <td>Matemática e jogos africanos</td>
-                <td>P103</td>
-                <td>1º andar</td>
-            </tr>
-            <tr>
-                <td>Manhã</td>
-                <td>Materiais, jogos e brincadeiras com Matemática</td>
-                <td>Materiais, jogos e brincadeiras com Matemática</td>
-                <td>Materiais, jogos e brincadeiras com Matemática</td>
-                <td>P104</td>
-                <td>1º andar</td>
-            </tr>
-            <tr>
-                <td>Manhã</td>
-                <td>Educação alimentar com jogos</td>
-                <td>Educação alimentar com jogos</td>
-                <td>Atividade: Novembro Azul</td>
-                <td>P015</td>
-                <td>Térreo</td>
-            </tr>
-            <tr>
-                <td>Manhã</td>
-                <td>Experimentos de física</td>
-                <td>Experimentos de física</td>
-                <td></td>
-                <td>P105</td>
-                <td>1º andar</td>
-            </tr>
-            <tr>
-                <td>Manhã</td>
-                <td>Contos de terror e outros</td>
-                <td>Afrobrasilidades</td>
-                <td>Afrobrasilidades</td>
-                <td>P106</td>
-                <td>1º andar</td>
-            </tr>
-            <tr>
-                <td>Manhã</td>
-                <td></td>
-                <td>Exposição, vivências e inclusividade (NAPNE)</td>
-                <td>Exposição, vivências e inclusividade (NAPNE)</td>
-                <td>P021</td>
-                <td>Térreo</td>
-            </tr>
-            <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>Jogos de tabuleiro sociológicos</td>
-                <td>P107</td>
-                <td>1º andar</td>
-            </tr>
-            <tr>
-                <td>Tarde</td>
-                <td>Matemática e jogos africanos</td>
-                <td>Matemática e jogos africanos</td>
-                <td>Matemática e jogos africanos</td>
-                <td>P103</td>
-                <td>1º andar</td>
-            </tr>
-            <tr>
-                <td>Tarde</td>
-                <td>Materiais, jogos e brincadeiras com Matemática</td>
-                <td>Materiais, jogos e brincadeiras com Matemática</td>
-                <td>Materiais, jogos e brincadeiras com Matemática</td>
-                <td>P104</td>
-                <td>1º andar</td>
-            </tr>
-            <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>Jogos de tabuleiro sociológicos</td>
-                <td>P107</td>
-                <td>1º andar</td>
-            </tr>
-            <tr>
-                <td>Tarde</td>
-                <td>Educação alimentar com jogos</td>
-                <td>Educação alimentar com jogos</td>
-                <td>Atividade: Novembro Azul</td>
-                <td>P015</td>
-                <td>Térreo</td>
-            </tr>
-            <tr>
-                <td>Tarde</td>
-                <td>Experimentos de física</td>
-                <td>Experimentos de física</td>
-                <td></td>
-                <td>P105</td>
-                <td>1º andar</td>
-            </tr>
-            <tr>
-                <td>Tarde</td>
-                <td>Contos de terror e outros</td>
-                <td>Afrobrasilidades</td>
-                <td>Afrobrasilidades</td>
-                <td>P106</td>
-                <td>1º andar</td>
-            </tr>
-            <tr>
-                <td>Tarde</td>
-                <td></td>
-                <td>Exposição, vivências e inclusividade (NAPNE)</td>
-                <td>Exposição, vivências e inclusividade (NAPNE)</td>
-                <td>P021</td>
-                <td>Térreo</td>
-            </tr>
-        </tbody>
-    </table>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Turnos</th>
+            <th>Terça 21/11</th>
+            <th>Quarta 22/11</th>
+            <th>Quinta 23/11</th>
+            <th>Espaço físico</th>
+            <th>Andar</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Manhã</td>
+            <td>Matemática e jogos africanos</td>
+            <td>Matemática e jogos africanos</td>
+            <td>Matemática e jogos africanos</td>
+            <td>P103</td>
+            <td>1º andar</td>
+        </tr>
+        <tr>
+            <td>Manhã</td>
+            <td>Materiais, jogos e brincadeiras com Matemática</td>
+            <td>Materiais, jogos e brincadeiras com Matemática</td>
+            <td>Materiais, jogos e brincadeiras com Matemática</td>
+            <td>P104</td>
+            <td>1º andar</td>
+        </tr>
+        <tr>
+            <td>Manhã</td>
+            <td>Educação alimentar com jogos</td>
+            <td>Educação alimentar com jogos</td>
+            <td>Atividade: Novembro Azul</td>
+            <td>P015</td>
+            <td>Térreo</td>
+        </tr>
+        <tr>
+            <td>Manhã</td>
+            <td>Experimentos de física</td>
+            <td>Experimentos de física</td>
+            <td></td>
+            <td>P105</td>
+            <td>1º andar</td>
+        </tr>
+        <tr>
+            <td>Manhã</td>
+            <td>Contos de terror e outros</td>
+            <td>Afrobrasilidades</td>
+            <td>Afrobrasilidades</td>
+            <td>P106</td>
+            <td>1º andar</td>
+        </tr>
+        <tr>
+            <td>Manhã</td>
+            <td></td>
+            <td>Exposição, vivências e inclusividade (NAPNE)</td>
+            <td>Exposição, vivências e inclusividade (NAPNE)</td>
+            <td>P021</td>
+            <td>Térreo</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Jogos de tabuleiro sociológicos</td>
+            <td>P107</td>
+            <td>1º andar</td>
+        </tr>
+        <tr>
+            <td>Tarde</td>
+            <td>Matemática e jogos africanos</td>
+            <td>Matemática e jogos africanos</td>
+            <td>Matemática e jogos africanos</td>
+            <td>P103</td>
+            <td>1º andar</td>
+        </tr>
+        <tr>
+            <td>Tarde</td>
+            <td>Materiais, jogos e brincadeiras com Matemática</td>
+            <td>Materiais, jogos e brincadeiras com Matemática</td>
+            <td>Materiais, jogos e brincadeiras com Matemática</td>
+            <td>P104</td>
+            <td>1º andar</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Jogos de tabuleiro sociológicos</td>
+            <td>P107</td>
+            <td>1º andar</td>
+        </tr>
+        <tr>
+            <td>Tarde</td>
+            <td>Educação alimentar com jogos</td>
+            <td>Educação alimentar com jogos</td>
+            <td>Atividade: Novembro Azul</td>
+            <td>P015</td>
+            <td>Térreo</td>
+        </tr>
+        <tr>
+            <td>Tarde</td>
+            <td>Experimentos de física</td>
+            <td>Experimentos de física</td>
+            <td></td>
+            <td>P105</td>
+            <td>1º andar</td>
+        </tr>
+        <tr>
+            <td>Tarde</td>
+            <td>Contos de terror e outros</td>
+            <td>Afrobrasilidades</td>
+            <td>Afrobrasilidades</td>
+            <td>P106</td>
+            <td>1º andar</td>
+        </tr>
+        <tr>
+            <td>Tarde</td>
+            <td></td>
+            <td>Exposição, vivências e inclusividade (NAPNE)</td>
+            <td>Exposição, vivências e inclusividade (NAPNE)</td>
+            <td>P021</td>
+            <td>Térreo</td>
+        </tr>
+    </tbody>
+</table>
 
 # Minicursos e Oficinas
 
@@ -643,4 +565,3 @@ As exposições vão acontecer nos corredores do prédio principal durante todo 
 - Saindo do Armário: Organizado pelo Núcleo de Estudos Afro-Brasileiros e Indígenas - NEABI Sistêmico
 
 - Tons de Orgulho: uma ode às diversas belezas negras - NEABI de Ceará Mirim
-
