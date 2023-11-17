@@ -84,9 +84,9 @@ Locais das atividades técnico-científicas:
 
 ---
 
-# Poster
+# Posters
 
-TERÇA (09h00 às 11h00 e 15h00 às 17h00) e QUARTA (09h00 às 11h)
+**TERÇA (09h00 às 11h00 e 15h00 às 17h00) e QUARTA (09h00 às 11h)**
 
 | Nº  | Título do Trabalho                                             |
 | --- | -------------------------------------------------------------- |
@@ -108,9 +108,9 @@ TERÇA (09h00 às 11h00 e 15h00 às 17h00) e QUARTA (09h00 às 11h)
 | 93  | Relatório de prática profissional de Monitoria na matéria de equipamentos Biomédicos |
 | 101 | A EDUCAÇÃO INCLUSIVA EM FOCO: Construindo metodologias para o ensino da matemática no IFRN-CM |
 
+---
 
-
-QUARTA (15h00 às 17h00) e QUINTA (09h00 às 11h00 e 15h00 às 17h00):
+**QUARTA (15h00 às 17h00) e QUINTA (09h00 às 11h00 e 15h00 às 17h00):**
 
 | Nº do Trabalho | Título do Trabalho |
 |----------------|--------------------|
@@ -133,29 +133,37 @@ QUARTA (15h00 às 17h00) e QUINTA (09h00 às 11h00 e 15h00 às 17h00):
 
 ---
 
-# Mostra Tecnológica (21/11/2023 a 23/11/2023) – Área de vivência
+# Mostra Tecnológica (21/11/2023 a 23/11/2023) 
 
-TERÇA (09h00 às 11h00 e 15h00 às 17h00) e QUARTA (09h00 às 11h00):
+Local: Área de vivência
 
-- **Nº do trabalho – Título do Trabalho**
-  - 2 - ANT BIOMÉDICO: praticidade na captação de estímulos musculares e cardíacos
-  - 23 - Desenvolvimento de protótipo para monitoramento de temperatura pediátrico
-  - 59 - Avaliação da Rede Sem Fio Acadêmica (eduroam) do IFRN - Campus Ceará-Mirim
+**TERÇA (09h00 às 11h00 e 15h00 às 17h00) e QUARTA (09h00 às 11h00):**
 
-QUARTA (15h00 às 17h00) e QUINTA (09h00 às 11h00 e 15h00 às 17h00):
+| Nº do trabalho | Título do Trabalho                                            |
+| --------------- | ------------------------------------------------------------ |
+| 2               | ANT BIOMÉDICO: praticidade na captação de estímulos musculares e cardíacos |
+| 23              | Desenvolvimento de protótipo para monitoramento de temperatura pediátrico |
+| 59              | Avaliação da Rede Sem Fio Acadêmica (eduroam) do IFRN - Campus Ceará-Mirim |
 
-- **Nº do trabalho – Título do Trabalho**
-  - 54 - Sistema de Irrigação automatizado
-  - 90 - PyGreen: Disseminando tecnologia
-  - 121 - Controle automatizado para ar condicionado
-  - 124 - Irrigação automatizada no Campus
+
+**QUARTA (15h00 às 17h00) e QUINTA (09h00 às 11h00 e 15h00 às 17h00):**
+
+| Nº do trabalho | Título do Trabalho                              |
+| --------------- | ---------------------------------------------- |
+| 54              | Sistema de Irrigação automatizado              |
+| 90              | PyGreen: Disseminando tecnologia               |
+| 121             | Controle automatizado para ar condicionado    |
+| 124             | Irrigação automatizada no Campus               |
+
 
 ---
 
 
-# Relato de Experiência (21/11/2023) 
+# Relato de Experiência 
 
-TERÇA (20h30 às 22h00):
+Dia: 21/11/2023
+
+**TERÇA (20h30 às 22h00):**
 
 Horários | Nº e Título do trabalho
 --- | ---
@@ -168,68 +176,122 @@ Horários | Nº e Título do trabalho
 ---
 
 
-# Comunicação Oral (21/11/2023 a 23/11/2023) 
+# Comunicação Oral 
+
+Dias: 21/11/2023 à 23/11/2023 
 
 Local: Primeiro andar do prédio principal 
 
-TERÇA (09h00 às 11h20):
+### TERÇA - 21/11/2023 (Manhã)
 
-Horários | Sala | Nº e Título do trabalho
---- | --- | ---
-09h00 às 09h40 | 01 | 10 - A mídia e a avaliação do corpo feminino: a maternidade, o envelhecimento e os cuidados com o corpo
-  | 02 | 43 - Jogos Digitais e Sustentabilidade: Conectando-se com os Objetivos Ambientais da ONU para 2030
-  | 03 | 95 - Eye-Sore - Projeto de Jogo
-09h50 às 10h30 | 01 | 47 - A MÍDIA E A AVALIAÇÃO DO CORPO FEMININO NA SOCIEDADE
-  | 02 | 75 - A experiência de iniciação à pesquisa em Literatura: relato de estudos do projeto Literatura e Cidadania no IFRN CNAT
-10h40 às 11h20 | 01 | 34 - POLÍTICAS AFIRMATIVAS NA COMUNIDADE ESCOLAR: LEVANTAMENTO E ANÁLISE DE DADOS NO IFRN, CAMPUS CEARÁ-MIRIM
-  | 02 | 46 - O direito à literatura e a reescrita das obras de Ágata Christie
+**Horário: 09h00 às 09h40**
+| Sala | Nº do trabalho | Título do Trabalho                                                                                               |
+| ---- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| 1    | 10  | A mídia e a avaliação do corpo feminino: a maternidade, o envelhecimento e os cuidados com o corpo              |
+| 2    | 43  | Jogos Digitais e Sustentabilidade: Conectando-se com os Objetivos Ambientais da ONU para 2030                   |
+| 3    | 95  | Eye-Sore - Projeto de Jogo                                                                                       |
 
-TERÇA (15h00 às 17h20):
+**Horário: 09h50 às 10h30**
+| Sala | Nº do trabalho | Título do Trabalho                                                                                               |
+| ---- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| 1    | 47  | A MÍDIA E A AVALIAÇÃO DO CORPO FEMININO NA SOCIEDADE                                                             |
+| 2    | 75  | A experiência de iniciação à pesquisa em Literatura: relato de estudos do projeto Literatura e Cidadania no IFRN CNAT |
 
-Horários | Sala | Nº e Título do trabalho
---- | --- | ---
-15h00 às 15h40 | 01 | 36 - A Narrativa Como Instrumento de Imersão nos Jogos Digitais
-  | 02 | 94 - Mind Colors - Projeto de Jogo
-  | 03 | 98 - Adhara - Projeto de Jogo
-15h50 às 16h30 | 01 | 64 - Queda Livre - Projeto de Jogo
-  | 02 | 85 - Goblin Slayer - Projeto de Jogo
-16h40 às 17h20 | 01 | 96 - The Zoio - Projeto de Jogo
-  | 02 | 97 - Sorcerer´s Awakening - projeto de jogo
+**Horário: 10h40 às 11h20**
+| Sala | Nº do trabalho  | Título do Trabalho                                                                                               |
+| ---- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| 1    | 34  | POLÍTICAS AFIRMATIVAS NA COMUNIDADE ESCOLAR: LEVANTAMENTO E ANÁLISE DE DADOS NO IFRN, CAMPUS CEARÁ-MIRIM          |
+| 2    | 46  | O direito à literatura e a reescrita das obras de Ágata Christie                                                |
 
-QUARTA (09h00 às 11h20):
+### TERÇA - 21/11/2023 (Tarde)
 
-Horários | Sala | Nº e Título do trabalho
---- | --- | ---
-09h00 às 09h40 | 01 | 48 - De que maneira os estudantes e servidores do IFRN-SPP lidam com a alimentação em meio a rotina escolar?
-  | 02 | 63 - NutriIF
-09h50 às 10h30 | 01 | 81 - Mulheres na TI: análise e percepção dos estudantes do curso Técnico em Informática para Internet do IFRN-SPP sobre a representatividade de mulheres na área da Tecnologia da Informação (TI)
-  | 02 | 82 - Saúde de qualidade: será que os alunos do ifrn-spp têm essa oportunidade no seu município?
-  | 03 | 103 - CAEIOT – Controle de acesso ao estacionamento utilizando internet das coisas
-10h40 às 11h20 | 01 | 58 - Projeto Accountability no Cartão Corporativo
-  | 02 | 70 - CONSTRUÇÃO DE KIT DIDÁTICO PARA O ENISINO DE HIDROSTÁTICA NO ENSINO MÉDIO
-  | 03 | 102 - MODELO DE AULA EXPERIMENTAL PARA ENSINO DE BIOFÍSICA
 
-QUARTA (15h00 às 16h40):
+**TERÇA (15h00 às 15h40):**
 
-Horários | Sala | Nº e Título do trabalho
---- | --- | ---
-15h00 às 15h40 | 01 | 18 - Desenvolvimento de um Sistema de Medição de Nível de Água com Sonar e Microcontroladores
-  | 02 | 56 - Um Ambiente Institucional Para Todos: Análise e Visualização de Dados sobre a Comunidade Acadêmica do IFRN - Campus Ceará-Mirim
-  | 03 | 57 - O LABORATÓRIO DE ENSINO DE MATEMÁTICA DO IFRN – CAMPUS CEARÁ-MIRIM
-16h00 às 16h40 | 01 | 68 - Revelando as entrelinhas
-  | 02 | 99 - MULHERES NA MATEMÁTICA: A INSERÇÃO E A PERMANÊNCIA NAS LICENCIATURAS EM MATEMÁTICA DO IFRN
-  | 03 | 123 - A utilização de jogos matemáticos no Projeto Alicerce: Dominó da divisão e multiplicação
+| Sala | Nº do trabalho  | Título do Trabalho                                     |
+| ---- | ------ | ------------------------------------------------------- |
+| 01   | 36     | A Narrativa Como Instrumento de Imersão nos Jogos Digitais |
+| 02   | 94     | Mind Colors - Projeto de Jogo                         |
+| 03   | 98     | Adhara - Projeto de Jogo                              |
 
-QUINTA (09h00 às 11h30):
 
-Horários | Sala | Nº e Título do trabalho
---- | --- | ---
-09h00 às 09h30 | 01 | 49 - Astrotion - Projeto de jogo
-  | 02 | 110 - Brazil x Dictator (BxD) - Projeto de Jogo
-09h40 às 10h10 | 01 | 65 - Naiá e a Floresta Encantada - projeto de jogo
-  | 02 | 88 - Magush - Projeto de Jogo
-10h20 às 10h50 | 01 | 71 - Um Lugar Escuro - Projeto de Jogo
-  | 02 | 89 - C#- Bug - Projeto de Jogo
-  | 03 | 108 - Purple Revenge - Projeto de Jogo
-11h00 às 11h30 | 01 | 69 - Manawa - Projeto de Jogo
-  | 02 | 91 - The Jorney Of Audrey - Projeto de Jogo
+**TERÇA (15h50 às 16h30):**
+
+Sala | Nº do trabalho  | Título do Trabalho                                     |
+| ---- | ------ | ------------------------------------------------------- |
+| 01   | 64     | Queda Livre - Projeto de Jogo                         |
+| 02   | 85     | Goblin Slayer - Projeto de Jogo                       |
+
+**TERÇA (16h40 às 17h20):**
+
+| Sala | Nº do trabalho  | Título do Trabalho                                     |
+| ---- | ------ | ------------------------------------------------------- |
+| 01   | 96     | The Zoio - Projeto de Jogo                            |
+| 02   | 97     | Sorcerer´s Awakening - projeto de jogo                |
+
+
+## QUARTA - 22/11/2023 (Manhã)
+
+**Horário: 09h00 às 09h40**
+| Sala | Nº do trabalho | Título do Trabalho                                                                                                       |
+| ---- | -------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 01   | 48             | De que maneira os estudantes e servidores do IFRN-SPP lidam com a alimentação em meio a rotina escolar?                 |
+| 02   | 63             | NutriIF                                                                                                                 |
+
+**Horário: 09h50 às 10h30**
+| Sala | Nº do trabalho | Título do Trabalho                                                                                                       |
+| ---- | -------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 01   | 81             | Mulheres na TI: análise e percepção dos estudantes do curso Técnico em Informática para Internet do IFRN-SPP sobre a representatividade de mulheres na área da Tecnologia da Informação (TI) |
+| 02   | 82             | Saúde de qualidade: será que os alunos do ifrn-spp têm essa oportunidade no seu município?                              |
+| 03   | 103            | CAEIOT – Controle de acesso ao estacionamento utilizando internet das coisas                                             |
+
+**Horário: 10h40 às 11h20**
+| Sala | Nº do trabalho | Título do Trabalho                                                                                                       |
+| ---- | -------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 01   | 58             | Projeto Accountability no Cartão Corporativo                                                                             |
+| 02   | 70             | CONSTRUÇÃO DE KIT DIDÁTICO PARA O ENISINO DE HIDROSTÁTICA NO ENSINO MÉDIO                                               |
+| 03   | 102            | MODELO DE AULA EXPERIMENTAL PARA ENSINO DE BIOFÍSICA                                                                     |
+
+## QUARTA - 22/11/2023 (Tarde)
+
+**Horário: 15h00 às 15h40**
+| Sala | Nº do trabalho | Título do Trabalho                                                                                                       |
+| ---- | -------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 01   | 18             | Desenvolvimento de um Sistema de Medição de Nível de Água com Sonar e Microcontroladores                                |
+| 02   | 56             | Um Ambiente Institucional Para Todos: Análise e Visualização de Dados sobre a Comunidade Acadêmica do IFRN - Campus Ceará-Mirim |
+| 03   | 57             | O LABORATÓRIO DE ENSINO DE MATEMÁTICA DO IFRN – CAMPUS CEARÁ-MIRIM                                                       |
+
+**Horário: 16h00 às 16h40**
+| Sala | Nº do trabalho | Título do Trabalho                                                                                                       |
+| ---- | -------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 01   | 68             | Revelando as entrelinhas                                                                                                 |
+| 02   | 99             | MULHERES NA MATEMÁTICA: A INSERÇÃO E A PERMANÊNCIA NAS LICENCIATURAS EM MATEMÁTICA DO IFRN                              |
+| 03   | 123            | A utilização de jogos matemáticos no Projeto Alicerce: Dominó da divisão e multiplicação                                |
+
+
+## QUINTA - 23/11/2023 (Manhã)
+
+**Horário: 09h00 às 09h30**
+| Sala | Nº do trabalho | Título do Trabalho                        |
+| ---- | -------------- | ---------------------------------------- |
+| 01   | 49             | Astrotion - Projeto de jogo               |
+| 02   | 110            | Brazil x Dictator (BxD) - Projeto de Jogo |
+
+**Horário: 09h40 às 10h10**
+| Sala | Nº do trabalho | Título do Trabalho                        |
+| ---- | -------------- | ---------------------------------------- |
+| 01   | 65             | Naiá e a Floresta Encantada - projeto de jogo |
+| 02   | 88             | Magush - Projeto de Jogo                  |
+
+**Horário: 10h20 às 10h50**
+| Sala | Nº do trabalho | Título do Trabalho                        |
+| ---- | -------------- | ---------------------------------------- |
+| 01   | 71             | Um Lugar Escuro - Projeto de Jogo         |
+| 02   | 89             | C#- Bug - Projeto de Jogo                 |
+| 03   | 108            | Purple Revenge - Projeto de Jogo          |
+
+**Horário: 11h00 às 11h30**
+| Sala | Nº do trabalho | Título do Trabalho                        |
+| ---- | -------------- | ---------------------------------------- |
+| 01   | 69             | Manawa - Projeto de Jogo                  |
+| 02   | 91             | The Jorney Of Audrey - Projeto de Jogo    |
