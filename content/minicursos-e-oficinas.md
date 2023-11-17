@@ -21,6 +21,9 @@ Os minicursos e oficinas são atividades que visam uma formação de curta dura�
 11. Requerimento de ensino no SUAP
 12. Métodos de demonstração matemática
 
+
+Clique [aqui](https://eventos.cm.ifrn.edu.br/event/15/registrations/) para fazer a sua inscrição!
+
 <table border="1">
         <thead>
             <tr>
