@@ -6,6 +6,7 @@ layout: Default
 
 
 <table border="1">
+  <tbody>
   <tr>
     <th>Horários</th>
     <th>Segunda 20/11</th>
@@ -70,6 +71,7 @@ layout: Default
     <td></td>
     <td></td>
   </tr>
+  </tbody>
 </table>
 
 Locais das atividades técnico-científicas:
