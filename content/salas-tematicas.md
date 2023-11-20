@@ -80,9 +80,17 @@ Para melhor esclarecer acerca das salas temáticas que serão abertas durante a 
         <tr>
             <td>Manhã</td>
             <td>Contos de terror e outros</td>
-            <td>Afrobrasilidades</td>
-            <td>Afrobrasilidades</td>
+            <td></td>
+            <td></td>
             <td>P106</td>
+            <td>1º andar</td>
+        </tr>
+        <tr>
+            <td>Manhã</td>
+            <td>Afrobrasilidades</td>
+            <td>Afrobrasilidades</td>
+            <td>Afrobrasilidades</td>
+            <td>P112</td>
             <td>1º andar</td>
         </tr>
         <tr>
@@ -144,9 +152,17 @@ Para melhor esclarecer acerca das salas temáticas que serão abertas durante a 
         <tr>
             <td>Tarde</td>
             <td>Contos de terror e outros</td>
-            <td>Afrobrasilidades</td>
-            <td>Afrobrasilidades</td>
+            <td></td>
+            <td></td>
             <td>P106</td>
+            <td>1º andar</td>
+        </tr>
+        <tr>
+            <td>Tarde</td>
+            <td>Afrobrasilidades</td>
+            <td>Afrobrasilidades</td>
+            <td>Afrobrasilidades</td>
+            <td>P112</td>
             <td>1º andar</td>
         </tr>
         <tr>
